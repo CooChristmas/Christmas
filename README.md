@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  ```Christmas```可以生成有效负载并控制远程操作系统的Poc。
+  Christmas可以生成有效负载并控制远程操作系统的Poc。
 </p>
 
 ## 如何安装
