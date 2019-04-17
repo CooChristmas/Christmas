@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CooChristmas/Christmas/master/content/logo.png">
+  <img src="https://github.com/CooChristmas/Christmas/blob/master/content/logo.png">
 </p>
 
 <h1 align="center">Christmas Payload Generator</h1>
