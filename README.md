@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CooChristmas/Christmas/blob/master/content/logo.png">
+  <img src="https://github.com/HexChristmas/Christmas/blob/master/content/logo.png">
 </p>
 
 <h1 align="center">Christmas Payload Generator</h1>
@@ -7,10 +7,10 @@
   <a href="https://golang.org/">
     <img src="https://img.shields.io/badge/Golang-1.11-blue.svg">
   </a>
-  <a href="https://github.com/CooChristmas/Christmas/blob/master/LICENSE">
+  <a href="https://github.com/HexChristmas/Christmas/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
   </a>
-  <a href="https://github.com/CooChristmas/Christmas/blob/master/main.go">
+  <a href="https://github.com/HexChristmas/Christmas/blob/master/main.go">
     <img src="https://img.shields.io/badge/Release-3.0-red.svg">
   </a>
     <a href="https://opensource.org">
@@ -24,12 +24,12 @@
 
 ## 如何安装
 ```bash
-$ go get github.com/CooChristmas/Christmas
+$ go get github.com/HexChristmas/Christmas
 $ go get github.com/kbinani/screenshot
 $ go get github.com/lxn/win
 $ go get github.com/matishsiao/goInfo
 $ go get golang.org/x/sys/windows
-$ cd ~/go/src/github.com/CooChristmas/Christmas
+$ cd ~/go/src/github.com/HexChristmas/Christmas
 $ go run main.go
 ```
 

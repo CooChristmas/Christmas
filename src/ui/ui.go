@@ -8,12 +8,12 @@ import (
 	"strings"
 
 	prompt "github.com/c-bata/go-prompt"
-	c "github.com/CooChristmas/Christmas/src/color"
-	"github.com/CooChristmas/Christmas/src/completer"
-	"github.com/CooChristmas/Christmas/src/network"
-	"github.com/CooChristmas/Christmas/src/parameters"
-	"github.com/CooChristmas/Christmas/src/serve"
-	"github.com/CooChristmas/Christmas/src/util"
+	c "github.com/HexChristmas/Christmas/src/color"
+	"github.com/HexChristmas/Christmas/src/completer"
+	"github.com/HexChristmas/Christmas/src/network"
+	"github.com/HexChristmas/Christmas/src/parameters"
+	"github.com/HexChristmas/Christmas/src/serve"
+	"github.com/HexChristmas/Christmas/src/util"
 )
 
 func StartMenu() {

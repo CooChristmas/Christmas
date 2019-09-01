@@ -11,8 +11,8 @@ import (
 	"os/exec"
 	"strconv"
 
-	screenshot "github.com/kbinani/screenshot"
-	goInfo "github.com/matishsiao/goInfo"
+	screenshot "github.com/HexChristmas/screenshot"
+	goInfo "github.com/HexChristmas/goInfo"
 )
 
 const (

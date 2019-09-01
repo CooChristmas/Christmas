@@ -6,14 +6,13 @@ import (
 	"log"
 	"net/http"
 
-	c "github.com/CooChristmas/Christmas/src/color"
+	c "github.com/HexChristmas/Christmas/src/color"
 )
 
 func main() {
 	ServeFiles()
 }
 
-// References: https://gist.github.com/paulmach/7271283
 func ServeFiles() {
 	fmt.Print(c.WHITE, "")
 	port := flag.String("p", "8100", "Serve")

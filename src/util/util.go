@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"time"
 
-	c "github.com/CooChristmas/Christmas/src/color"
+	c "github.com/HexChristmas/Christmas/src/color"
 )
 
 const (
